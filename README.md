@@ -1,43 +1,37 @@
- <h1 align="center"> Suhail Md </h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
 
- 
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h1 align="center"> CRAWL-MD</h1> 
 
-<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＣＲＡＷＬ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/ddec0dec49198c2f48b99.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/CRAWL001/CRAWL001/fork">
+    <img src="https://img.shields.io/github/forks/CRAWL001/CRAWL001?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/CRAWL001/CRAWL001/stargazers"> 
+     <img src="https://img.shields.io/github/stars/CRAWL001/CRAWL001?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
-  </a>
+  <a aria-label="CRAWL-MD is free to use" href="https://youtube.com/@CRAWL_SL_YT" target="_blank">
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{CRAWL001}/count.svg" alt="CRAWL001 :: Visitor's Count" /></p>
 
 <p align="center">
 
  <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <img title="Owner" src="https://img.shields.io/badge/CRAWL001-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/CRAWL001">
+    <img src="https://img.shields.io/github/followers/CRAWL001?style=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -53,7 +47,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> CRAWL-MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,8 +57,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/SuhailTechInfo/CRAWL-MD"><b>CRAWL-MD</b></a> Support Deploy On...
 </p>
+
+<p align="center">
+  <a href="https://github.com/CRAWL001/CRAWL001/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+
+
 
 <p align="center">
   <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
@@ -145,7 +144,7 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *CRAWL-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use CRAWL-MD at your own risk by keeping this warning in mind.*
 
